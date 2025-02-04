@@ -1,0 +1,8 @@
+prefix=/home/jeeva/GitHub/SIMTech_ws/install
+
+Name: kuka_advanced_manipulation_pkg
+Description: Description of kuka_advanced_manipulation_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
