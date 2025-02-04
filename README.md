@@ -23,4 +23,4 @@ To launch the **robot arm manipulation package**, use:
 ```sh
 roslaunch kuka_advanced_manipulation_pkg kuka_advanced_manipulation.launch
 ```
-
+[Watch the full video](kuka_demo.mp4)
